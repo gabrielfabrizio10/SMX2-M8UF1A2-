@@ -1,3 +1,5 @@
+#Evaluación inicial
+
 # SMX2-M8UF1A2-
 Repositorio de evaluación
 
@@ -38,7 +40,7 @@ Es el código que se utiliza para estructurar y desplegar una página web y sus 
 
 #¿Qué es CSS?
 
-$ \ color {red} {Respuesta. Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado}  $
+$ \ color {red} Respuesta. Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado $
 
 
 #Flujo de trabajo (navegador, petición, servidor y respuesta):
