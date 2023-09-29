@@ -15,8 +15,7 @@ Es un espacio virtual que contiene toda la información que una persona o empres
 
 #¿Qué es una aplicación web?
 
-Respuesta.
-Es un software que se ejecuta en el navegador web
+Respuesta. <color> <red> Es un software que se ejecuta en el navegador web
 
 
 #¿Qué es una herramienta ofimática?
