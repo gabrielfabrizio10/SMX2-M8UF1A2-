@@ -5,18 +5,16 @@ Repositorio de evaluación
 
 #¿Qué es una página web?
 
-Respuesta.
+<font color='red'>rojo</font>Respuesta. Es un conjunto de información que un sitio web muestra en una pantalla, incluyendo a la totalidad de sus elementos
 
 
 #¿Qué es un sitio web?
 
-Respuesta.<p><red>varavara
-
-Es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet. 
+<font color='red'>rojo</font>Es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet. 
 
 #¿Qué es una aplicación web?
 
-Respuesta. <color> <red> Es un software que se ejecuta en el navegador web
+<font color='red'>rojo</font> Respuesta.Es un software que se ejecuta en el navegador web
 
 
 #¿Qué es una herramienta ofimática?
