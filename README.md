@@ -38,10 +38,13 @@ Es el código que se utiliza para estructurar y desplegar una página web y sus 
 
 #¿Qué es CSS?
 
-Respuesta. Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado
+Respuesta. Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado <span style="color:red">red</span> 
 
 
 #Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+
+
 ![tarea 3](https://github.com/gabrielfabrizio10/SMX2-M8UF1A2-/assets/145135376/618b5302-c823-426f-848d-cca698377f2b)
 
 
