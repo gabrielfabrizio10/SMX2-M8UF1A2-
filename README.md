@@ -20,14 +20,18 @@ Es un software que se ejecuta en el navegador web
 #¿Qué es una herramienta ofimática?
 
 Respuesta.
+
 Son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
 #Herramientas de Google:
+
 ![tarea](https://github.com/gabrielfabrizio10/SMX2-M8UF1A2-/assets/145135376/73e25f4c-a466-41a2-82e8-443b1888113a)
 
 
 #¿Qué es HTML ? 
+
 Respuesta.
+
 ![tarea 2](https://github.com/gabrielfabrizio10/SMX2-M8UF1A2-/assets/145135376/0fe665bd-49cb-41b4-8ec8-c1afdf503c49)
 
 Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos
