@@ -36,13 +36,10 @@ Herramientas de Google:
 </body>
 </html>
 ```
-
-
-
 **¿Qué es CSS?** Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado </font>
 
 Flujo de trabajo (navegador, petición, servidor y respuesta):
-
+https://github.com/gabrielfabrizio10/SMX2-M8UF1A2-/blob/7308a80bd216ce1a7ba29ef6191eb88bad088995/tarea%203.png
 
 
 
