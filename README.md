@@ -1,56 +1,43 @@
-# **Evaluación inicial**
-
-# SMX2-M8UF1A2-
+# Evaluación inicial
 Repositorio de evaluación
 
-#¿Qué es una página web?
+¿Qué es una página web? Una pagina web es un document de web, normalment aquest format es HTML.
 
-<font color='red'>rojo</font>Respuesta. Es un conjunto de información que un sitio web muestra en una pantalla, incluyendo a la totalidad de sus elementos
+¿Qué es un sitio web? És una col·lecció de pàgines web, imatges, vídeos i altres elements digitals servida per un únic domini d'internet. Un lloc web està allotjat almenys en un servidor web, a què es pot accedir via Internet o una Xarxa d'Àrea Local.
 
+¿Qué es una aplicación web? És una aplicació a la que s'accedeix utilitzant com a client un navegador web usant el protocol TCP/IP, ja sigui a través d'internet o d'una intranet.
 
-#¿Qué es un sitio web?
+¿Qué es una herramienta ofimática? Actualment, les eines ofimàtiques són un conjunt de programes o programari conegutd com a suites ofimàtiques. Aquest conjunt de programes inclou diferents tipus d'eines amb elements comuns amb què és possible treballar de manera unificada, així com compartir dades entre els diferents programes.
 
-<font color='red'>rojo</font>Es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet. 
+Herramientas de goolgle
 
-#¿Qué es una aplicación web?
+|Applicaciones|Visto|
+  | :----------- | :----------- |
+ |google Docs|✔️|
+ |google Sliders|✔️|
+ |Google Sheets|✔️|
+ |Google Calender|📅|
+ |Google Meet|💻|
+ |...|...|
 
-<font color='red'>rojo</font> Respuesta.Es un software que se ejecuta en el navegador web
+¿Qué es HTML ? Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+```
 
-#¿Qué es una herramienta ofimática?
+¿Qué es CSS? CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los elementos HTML deberían ser mostrados.
 
-Respuesta.
-
-Son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
-
-#Herramientas de Google:
-
-![tarea](https://github.com/gabrielfabrizio10/SMX2-M8UF1A2-/assets/145135376/73e25f4c-a466-41a2-82e8-443b1888113a)
-
-
-#¿Qué es HTML ? 
-
-Respuesta.
-
-![tarea 2](https://github.com/gabrielfabrizio10/SMX2-M8UF1A2-/assets/145135376/0fe665bd-49cb-41b4-8ec8-c1afdf503c49)
-
-Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos
-
-#¿Qué es CSS?
-
-
--Respuesta. Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado </font>
-
-
-
-
-
-
+Flujo de trabajo (navegador, petición, servidor y respuesta):
 
 #Flujo de trabajo (navegador, petición, servidor y respuesta):
-
-
-
-![tarea 3](https://github.com/gabrielfabrizio10/SMX2-M8UF1A2-/assets/145135376/618b5302-c823-426f-848d-cca698377f2b)
-
-
