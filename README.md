@@ -10,7 +10,7 @@ Respuesta.
 
 #¿Qué es un sitio web?
 
-Respuesta.<p><red> red color markdown text</red>
+Respuesta.<p><red>asddsa
 
 Es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet. 
 
