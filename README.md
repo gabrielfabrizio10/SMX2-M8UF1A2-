@@ -10,7 +10,8 @@ Respuesta.
 
 #¿Qué es un sitio web?
 
-Respuesta.
+Respuesta.<p><red> red color markdown text</red>
+
 Es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet. 
 
 #¿Qué es una aplicación web?
